@@ -9,8 +9,8 @@ i know:
 - a bit of **CSS**
 
 ## interests
-- **math**: I'm always diving into interesting topics and numbers.
-- **googology**: large numbers and the concepts behind them
+- **math**: math
+- **googology**: large numbers
 
 ## profiles
 best way to reach me is on **discord**: `waffelz0212`
