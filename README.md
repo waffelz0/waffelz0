@@ -1,7 +1,16 @@
-# so like im some guy
-i can do a little code  
-i know JavaScript, HTML, Luau, LaTeX, and a little bit of CSS.  
-# my interests
-i like math and googology a lot i think that its pretty cool  
-# profiles
-best way to contact me is discord @waffelz0212
+# your local gas station waffle
+
+## skills
+i know:
+- **JavaScript**
+- **HTML**
+- **Luau**
+- **LaTeX**
+- a bit of **CSS**
+
+## interests
+- **math**: I'm always diving into interesting topics and numbers.
+- **googology**: large numbers and the concepts behind them
+
+## profiles
+best way to reach me is on **discord**: `waffelz0212`
