@@ -7,7 +7,7 @@ i know:
 \- **Luau**  
 \- **LaTeX**  
 \- a bit of **CSS**  
-\- learning **Python**  
+\- **Python**  
 
 ## interests
 \- **math**: math  
