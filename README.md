@@ -1,18 +1,8 @@
 # your local gas station waffle
 
-## skills
-i know:  
-\- **JavaScript**  
-\- **HTML**  
-\- **Luau**  
-\- **LaTeX**  
-\- a bit of **CSS**  
-\- **Python**  
+nothing much to put here
 
-## interests
-\- **math**: math  
-\- **googology**: large numbers
+check out [*BFASM*](https://github.com/waffelz0/BFASM) and also [*Tea*](https://github.com/waffelz0/Tea)
 
-## profiles
-best way to reach me is on **discord**: `waffelz0212`  
+best way to reach me is on discord: `@waffelz0212`  
 also check out my friend [vallionxd](https://github.com/VallionXD)
